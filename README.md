@@ -1,2 +1,2 @@
 # RelyOlder
-老有所依
+To help the old man solve their difficulties
